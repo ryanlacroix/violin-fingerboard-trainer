@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.neck-table {
+  border: 1px solid black;
+  background-color: black;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px #888888;
+}
+.row-1 {
+  border-bottom: 10px solid brown;
+  width: 10px;
+}
+
+.row-2 {
+  padding-top: 5px;
+}
+
+.row-3 {
+  padding-top: 5px;
+}
+
+.row-4 {
+  padding-top: 15px;
+}
+
+.row-5 {
+  padding-top: 20px;
+}
+.row-6 {
+  padding-top: 25px;
+}
